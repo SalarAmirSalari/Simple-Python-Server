@@ -17,6 +17,9 @@ A lightweight, local HTTPS/HTTP server with a built-in Tkinter-based GUI. Design
 - 💡 Easy-to-use and self-contained (1 Python file)
 
 ---
+## Note:
+you need to name the certificate file to ```cert.cert``` and key file to ```key.key```
+---
 
 ## 🧰 Requirements
 
