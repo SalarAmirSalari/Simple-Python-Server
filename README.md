@@ -18,12 +18,6 @@ A lightweight, local HTTPS/HTTP server with a built-in Tkinter-based GUI. Design
 
 ---
 
-## 🖼️ Screenshot
-
-![App Screenshot](screenshot.png)
-
----
-
 ## 🧰 Requirements
 
 - Python 3.7+
